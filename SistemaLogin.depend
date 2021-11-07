@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636142703 source:c:\users\aedesaegypti\desktop\sistemalogin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1636151084 source:c:\users\dell\desktop\sistemalogin\sistemalogin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
